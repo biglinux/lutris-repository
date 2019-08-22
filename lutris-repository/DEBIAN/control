@@ -1,5 +1,6 @@
 Package: lutris-repository
-Version: 2017.09-1big3
+Version: 2017.09-1big4
+Depends: libopengl0
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
 Installed-Size:20
