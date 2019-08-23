@@ -1,6 +1,6 @@
 Package: lutris-repository
-Version: 2017.09-1big4
-Depends: libopengl0
+Version: 2017.09-1big5
+Depends: libopengl0, mesa-vulkan-drivers:i386, mesa-vulkan-drivers
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
 Installed-Size:20
