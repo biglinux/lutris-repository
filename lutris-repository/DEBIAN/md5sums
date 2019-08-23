@@ -1,5 +1,5 @@
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
 6df74679112084a4d3bdf04034528ec6  DEBIAN/postinst
-96606db5cbaae1799d4280524ef2b4c1  DEBIAN/control
+8aaaa95837db8ddd001a08d0e726d4c0  DEBIAN/control
 9f20f4602af727506231406cce91c1a6  etc/apt/sources.list.d/lutris-team-ubuntu-lutris-disco.list
 d9d92888d279a0050fa52fe00220d993  etc/apt/trusted.gpg.d/lutris-team_ubuntu_lutris.gpg
